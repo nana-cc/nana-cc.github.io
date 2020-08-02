@@ -12,7 +12,7 @@ github_repo: "https://github.com/nana-cc/nana-cc.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "愚者自以为聪明，智者有自知之明."
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-nana.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
