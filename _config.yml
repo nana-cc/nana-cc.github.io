@@ -1,7 +1,7 @@
 # Site settings
 title: Nana的个人博客
 SEOTitle: Nana's blog | Nana的个人博客
-header-img: img/post-bg-desk.jpg
+header-img: img/post-nana-desk.jpg
 email: akane1003@163.com
 description: "无论黑夜怎样悠长，白昼总会到来"
 keyword: "Nana, 博客"
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: klovien.github.io    #仓库名称
@@ -94,21 +94,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
-
-# Friends
-friends: [
-    {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
-    },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
-    }
-]
