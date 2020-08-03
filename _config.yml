@@ -3,8 +3,8 @@ title: Nana的个人博客
 SEOTitle: Nana's blog | Nana的个人博客
 header-img: img/post-nana-desk.jpg
 email: akane1003@163.com
-description: "无论黑夜怎样悠长，白昼总会到来"
-keyword: "Nana, 博客"
+description: ""
+keyword: ""
 url: "https://nana-cc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/nana-cc/nana-cc.github.io.git" # you code repository
